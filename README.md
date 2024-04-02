@@ -141,5 +141,3 @@ Response will be like below:
 ```
 - Update the transaction record in the database with the payment status received from Bkash.
 
-Author:
-555
